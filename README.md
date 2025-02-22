@@ -1,8 +1,8 @@
 # 🚥 Visualizador de 7 Segmentos con LEDs de la palabra : "bebedero" 🚥
 ### Realizado por: 
+- 📌 Bryan Alejandro Anona Paredes 202307272
 - 📌 Sebastian Antonio Romero Tzitzimit 202201690
 - 📌 Carlos Eduardo Lau López 202202812
-- 📌 Bryan Alejandro Anona Paredes 202307272
 - 📌 Mariana Abigail Mejia Garcia 202300370
 - 📌 Rodrigo Sebastián Castro Aguilar 202204496
 - 📌 Andy Asael Sánchez Jiménez 201904024
