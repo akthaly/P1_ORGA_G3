@@ -31,11 +31,7 @@ Este proyecto implementa un **visualizador de 7 segmentos** utilizando **LEDs in
 
 El circuito fue simulado en **Proteus** para verificar su funcionamiento. Aquí una captura:
 
-![Simulación en Proteus](ruta/a/la/imagen.png)
-
-### 🛠️ Circuito Físico
-
-Implementado en **protoboard** y **PCB**, los LEDs se organizaron así:
+<img src="https://github.com/user-attachments/assets/15d6eff9-00fa-4cce-b702-be0fd7068cb0" alt="image" width="400" />
 
 ## 🚀 ¿Cómo replicar el proyecto?
 

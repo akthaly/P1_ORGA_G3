@@ -17,7 +17,8 @@ En esta parte del proyecto, implementamos los segmentos **A, B, F y el punto** e
 
 ## 📸 Fotos de las Placas
 
-![Placa de Cobre](ruta/a/la/foto.png)
+<img src="https://github.com/user-attachments/assets/e3c5ab31-431f-45b8-92dc-3150308351be" alt="image" width="400" /> 
+
 
 ---
 

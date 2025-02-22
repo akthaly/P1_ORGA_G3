@@ -17,7 +17,7 @@ En esta parte del proyecto, implementamos los segmentos **C y D** en **protoboar
 
 ## 📸 Fotos del Protoboard
 
-![Protoboard](ruta/a/la/foto.png)
+<img src="https://github.com/user-attachments/assets/e2776893-98a2-476b-99a1-6ec1b676d956" alt="image" width="400" />
 
 ---
 
