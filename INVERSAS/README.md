@@ -14,7 +14,3 @@ Las funciones inversas se implementaron utilizando **compuertas lógicas** y se 
 ## ✅ Resultado
 
 ¡El modo espejo funciona perfectamente! Ahora el display muestra "bebedero" de manera invertida. 🎉
-
----
-
-¡Gracias por visitar! Si tienes preguntas, abre un **issue** o contáctanos. 😊
